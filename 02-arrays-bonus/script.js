@@ -34,4 +34,6 @@ if (teachers[i] === daTrovare){
 const isFabioPresent = presente;
 console.log(isFabioPresent)
 // 5. Unisci tutti gli insegnanti nell'array teachers in una stringa  separata da virgole e salvala nella variabile teachersString
-const teachersString = null;
+// const teachersString = teachers.join(",");
+const teachersString = null
+console.log(teachersString)
